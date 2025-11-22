@@ -1,1 +1,2 @@
 # Sentiment-Analysis-IMDB-Movie-Review
+This project performs sentiment analysis on IMDb movie reviews to classify them as positive or negative. The dataset is preprocessed by cleaning the text, removing noise, and converting words into numerical form. A machine learning model is then trained to learn patterns that indicate sentiment. Once trained, the model can accurately predict the sentiment of any new movie review. This system helps in understanding audience opinions and can be used for review analysis, recommendation systems, and opinion mining.
